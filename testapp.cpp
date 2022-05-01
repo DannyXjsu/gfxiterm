@@ -1,8 +1,4 @@
 #include "gfxiterm.h"
-#include <cstdlib>
-#include <cstring>
-#include <curses.h>
-#include <string>
 
 using namespace gfxi;
 
